@@ -1182,6 +1182,7 @@ Day - 3 - 7th Oct. 2023
 			GIT Squash ::::
 			
 				It is merge option used to combine the commits before merging.
+				In Git, "squashing" refers to combining multiple commits into a single commit. This can be useful to 					create a cleaner and more concise commit history, especially before merging changes into a main branch.
 				
 			
 				master :: cm1,cm2,cm3
